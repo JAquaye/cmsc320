@@ -1,4 +1,4 @@
-# Final Tuturial Link: [https://jaquaye.github.io/cmsc320/](url)
+# Final Tuturial Link: https://jaquaye.github.io/cmsc320/
 
 ## Directions
 
