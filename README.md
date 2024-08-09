@@ -1,6 +1,6 @@
 # Final Project (final_tutorial)
 
-_Hosted on Github Pages:_ [https://jaquaye.github.io/cmsc320/](url)
+_Hosted on Github Pages:_ https://jaquaye.github.io/cmsc320/
 
 ## Intention
 
