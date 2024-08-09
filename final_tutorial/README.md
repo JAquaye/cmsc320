@@ -1,3 +1,5 @@
+# Final Tuturial Link: [https://jaquaye.github.io/cmsc320/](url)
+
 ## Directions
 
 CMSC320 students will turn in a tutorial that will walk users through the entire data science pipeline: 
