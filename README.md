@@ -1,3 +1,7 @@
+***This repository contains work from my university's course on Data Science. The crowning achievement of the efforts in this class is the 'final tutorial,' which is essentially a culmination of all the tools and techniques learned in this class.***
+
+------------------
+
 # Final Project (final_tutorial)
 
 _Hosted on Github Pages:_ https://jaquaye.github.io/cmsc320/
